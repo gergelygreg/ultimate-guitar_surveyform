@@ -1,0 +1,50 @@
+body{   
+    text-align: center;
+    font-family: helvetica;
+    background-image: url("https://cdn.ustatik.com/storage/marketing/images/2/21f5924b8587af03674a6aa093d83da30b67a63a.jpeg");
+}
+
+#body{
+    width: 600px;
+    padding: 30px;
+    margin: auto;
+    border-radius: 10px;
+    text-align:  left;
+    background-color: rgba(0,0,0,0.6);
+    color: #ffcc00;
+}
+
+img{
+    position: fixed;
+    display: block;
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 3%;
+    height: auto;
+}
+
+#name, #email, #number, #dropdown, #dropdown2{
+    width: 560px;
+    padding: 10px;
+    border-radius: 6px;
+    text-align: left;
+}
+
+#comment, #submit{
+    width: 550px;
+    border-radius: 3px;
+}
+
+#comment{
+    border: 1px solid #ffcc00; 
+    padding: 20px;
+}
+
+#submit{
+    width: 555px;
+    padding: 10px;
+    margin-top: 25px;
+    color: white;
+    font-size:20px;
+    background-color: #ffcc00;
+}
